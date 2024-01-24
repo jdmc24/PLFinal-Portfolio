@@ -12,15 +12,9 @@ Thanks to the judges, Liam, Jake, and the admin team for organizing the ProductL
 - **index.html**: Basic demo HTML file.
 - **index-demo.html**: Example with advanced formatting.
 
-### Placeholders for Projects:
+### Contact Information:
+**Email and LinkedIn**: Provided at bottom of page.
 
-
-## Additional Tips:
-- Clearly articulate your skills.
-- Showcase projects effectively: Provide concise descriptions and highlight key features.
-- Maintain a clean and organized layout.
-- Proofread carefully.
-- Update regularly with new projects and accomplishments.
 
 
 
