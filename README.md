@@ -1,8 +1,8 @@
 # ProductLab Portfolio Demo
 
-Welcome to the ProductLab Portfolio Demo repository!
+Welcome to Jake's final Portfolio Demo repository.
 
-This repository provides a structured template and resources to help ProductLab participants create their own professional online portfolios.
+Thanks to the judges, Liam, Jake, and the admin team for organizing the ProductLab program. 
 
 ## Key Features:
 
