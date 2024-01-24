@@ -1,8 +1,8 @@
-# ProductLab Portfolio Demo
+# ProductLab Portfolio 
 
-Welcome to the ProductLab Portfolio Demo repository!
+Welcome to Jake McCorkle's final Portfolio Demo repository.
 
-This repository provides a structured template and resources to help ProductLab participants create their own professional online portfolios.
+Thanks to the judges, Liam, Jake, and the admin team for organizing the ProductLab program. 
 
 ## Key Features:
 
@@ -13,17 +13,7 @@ This repository provides a structured template and resources to help ProductLab 
 - **index-demo.html**: Example with advanced formatting.
 
 ### Placeholders for Projects:
-- Integrate links to your personal projects.
 
-## Getting Started:
-1. Fork this repository to create your own copy.
-2. Customize the content:
-   - Replace placeholder text and images.
-   - Highlight your skills and projects.
-3. Explore the demo files:
-   - Use `index.html` as a starting point.
-   - Refer to `index-demo.html` for advanced formatting.
-4. Experiment and personalize: Adjust structure and styles to your liking.
 
 ## Additional Tips:
 - Clearly articulate your skills.
@@ -32,8 +22,5 @@ This repository provides a structured template and resources to help ProductLab 
 - Proofread carefully.
 - Update regularly with new projects and accomplishments.
 
-This demo is a foundation. Make it your own and create a portfolio that reflects your unique talents and potential!
 
-Happy portfolio building!
 
-\- ProductLab Team
