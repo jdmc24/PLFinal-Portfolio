@@ -1,6 +1,6 @@
-# ProductLab Portfolio Demo
+# ProductLab Portfolio 
 
-Welcome to Jake's final Portfolio Demo repository.
+Welcome to Jake McCorkle's final Portfolio Demo repository.
 
 Thanks to the judges, Liam, Jake, and the admin team for organizing the ProductLab program. 
 
